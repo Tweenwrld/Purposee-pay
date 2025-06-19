@@ -1,4 +1,4 @@
-# Purpose Pay
+# Purpose Pay.
 
 ## Overview
 Purpose Pay is a comprehensive payment application that allows users to manage their wallets, transactions, and more. The application consists of a frontend and a backend, each serving specific roles in the overall functionality.
