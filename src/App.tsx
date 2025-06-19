@@ -44,3 +44,5 @@ const App: React.FC = () => {
     </QueryClientProvider>
   )
 }
+
+export default App;
